@@ -10,7 +10,7 @@ An immersive **Virtual Reality (VR) Art Gallery** built with **Unity** and the *
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ybLaSnqHRa4">
-    <img src="Images/demo-thumbnail.png" alt="ART Demo" width="850">
+    <img src="demo-thumbnail.png" alt="ART Demo" width="850">
   </a>
 </p>
 
