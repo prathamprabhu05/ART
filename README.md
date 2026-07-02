@@ -9,7 +9,7 @@ An immersive Virtual Reality (VR) art gallery built with **Unity** and the **XR 
 ## 🎥 Demo
 
 <p align="center">
-  <a href="YOUR_VIDEO_LINK">
+  <a href="https://youtu.be/ybLaSnqHRa4">
     <img src="Images/demo-thumbnail.png" width="850"/>
   </a>
 </p>
